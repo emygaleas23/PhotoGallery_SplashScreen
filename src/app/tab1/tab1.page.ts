@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { AlertaService } from '../services/alerta.service';
+import { IonAlert, IonButton } from '@ionic/angular';
 
 @Component({
   selector: 'app-tab1',
@@ -8,6 +10,13 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
-  constructor() {}
+  constructor(private alertaService: AlertaService) {}
+
+  lanzarAlerta() {
+    this.alertaService.presentAlert(
+      'Alerta', 
+      'Mensaje desde un servicio personalizado de alerta.', 
+      );
+  }
 
 }
