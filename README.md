@@ -174,4 +174,4 @@ https://github.com/user-attachments/assets/b6895754-ada3-4ba0-8698-8c2933432ff2
 
 | 📱 Icono | ⚠️ Alerta | 📷 Cámara | 🖼️ Captura | 🗂️ Galería |
 |----------|----------|----------|----------|----------|
-| ![icono](imagenes_readme/icono.jpeg) | ![alerta](imagenes_readme/alerta.jpeg) | ![cámara](imagenes_readme/camara1.jpeg) | ![capturadeimagen](imagenes_readme/camara2.jpeg) | ![galería](imagenes_readme/galeria.jpeg) |
+| ![icono](imagenes_readme/Icono.jpeg) | ![alerta](imagenes_readme/alerta.jpeg) | ![cámara](imagenes_readme/camara1.jpeg) | ![capturadeimagen](imagenes_readme/camara2.jpeg) | ![galería](imagenes_readme/galeria.jpeg) |
