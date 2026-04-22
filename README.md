@@ -168,11 +168,10 @@ Desde ahí se puede:
 
 A continuación, se muestra un video en donde se visualiza el ícono de la aplicación, el splash screen y las funcionalidades de la aplicación, que incluyen una alerta, cámara y galería de fotos.
 
-| Alerta | Cámara |
-|-----------------|----------------|
-| ![alerta](imagenes_readme/alerta.jpeg) | ![cámara](imagenes_readme/camara1.jpeg)|
+https://github.com/user-attachments/assets/b6895754-ada3-4ba0-8698-8c2933432ff2
 
-| Imagen | Galería |
-|-----------------|----------------|
-| ![capturadeimagen](imagenes_readme/camara2.jpeg) | ![galería](imagenes_readme/galeria.jpeg)|
----
+### 📸 Capturas de la aplicación
+
+| 📱 Icono | ⚠️ Alerta | 📷 Cámara | 🖼️ Captura | 🗂️ Galería |
+|----------|----------|----------|----------|----------|
+| ![icono](imagenes_readme/icono.jpeg) | ![alerta](imagenes_readme/alerta.jpeg) | ![cámara](imagenes_readme/camara1.jpeg) | ![capturadeimagen](imagenes_readme/camara2.jpeg) | ![galería](imagenes_readme/galeria.jpeg) |
