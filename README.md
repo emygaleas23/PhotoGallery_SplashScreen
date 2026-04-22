@@ -11,7 +11,9 @@
     * 🖼️ Visualización de las imágenes tomadas dentro de la aplicación.
     * 📲​ Guardar imágenes en la propia galería del celular.
 - Incluye un ícono representativo de la aplicación y una pantalla de carga antes de mostrar la aplicación.
-- El archivo para descargar la aplicación en un dispositivo Android, se encuentra en el mismo repositorio.
+
+🔗 A continuación, se proporciona el enlace para descargar el archivo APK e instalar la aplicación en un dispositivo Android:
+  - [Descargar aplicación Photo-Gallery](https://epnecuador-my.sharepoint.com/:u:/g/personal/emily_galeas_epn_edu_ec/IQCxyJam2mIwSLYceosvMKj8AYETqUXMM-EPE67pl9nPVGA?e=pa1RxF)
 
 ---
 
